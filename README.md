@@ -45,3 +45,8 @@ Bantulah Andi untuk mengimplementasikan tiga kelas objek tersebut agar programny
 5.Tampilkan daftar jurusan yang ada di Universitas XYZ.
 
 6.Tampilkan daftar mahasiswa yang terdaftar dalam Jurusan Teknik Informatika di Universitas XYZ.
+
+# HASIL DAN PEMBAHASAN
+Saya Merasa sudah cukup untuk mengatasi permasalahan saol diatas dari mulai membuat kelas kelas yang ada, dan juga atributnmya, sehingga function function yang ada dapat berjalan dengan baik dan dapat menampilkan daftar mahasiswa yang sudah ditambahkan
+
+- Lihat <a href="https://github.com/Dlann12/TUGAS-PBO-2/blob/main/Pbo2.py">Kode Untuk Soal Diatas.</a><br><br>
