@@ -32,3 +32,11 @@ tampilkan_daftar_jurusan(self): menampilkan daftar jurusan yang ada di Universit
 Andi ingin menggunakan programnya untuk mengelola data mahasiswa dan jurusan di Universitas XYZ.
 
 Bantulah Andi untuk mengimplementasikan tiga kelas objek tersebut agar programnya dapat berjalan dengan baik.
+
+#PERTANYAAN
+1.Implementasikan kelas Mahasiswa, Jurusan dan Universitas sesuai dengan spesifikasi yang diberikan.
+2.Buatlah sebuah objek Universitas dengan nama "XYZ University".
+3.Buatlah objek Jurusan dengan nama "Teknik Informatika" dan tambahkan objek tersebut ke dalam Universitas XYZ.
+4.Buatlah objek Mahasiswa dengan nama "Kalian masing", NIM "Kalian masing", dan masukkan ke dalam Jurusan Teknik Informatika di Universitas XYZ.
+5.Tampilkan daftar jurusan yang ada di Universitas XYZ.
+6.Tampilkan daftar mahasiswa yang terdaftar dalam Jurusan Teknik Informatika di Universitas XYZ.
