@@ -51,9 +51,7 @@ universitas_xyz = Universitas("XYZ University")  # Membuat objek Universitas
 jurusan_ti = Jurusan("Teknik Informatika")  # Membuat objek Jurusan
 universitas_xyz.tambah_jurusan(jurusan_ti)
 
-mahasiswa_1 = Mahasiswa(
-    "Fadlan Dwi Febrio", "G1A022051", jurusan_ti
-)  # Membuat objek Mahasiswa 1
+mahasiswa_1 = Mahasiswa("Fadlan Dwi Febrio", "G1A022051", jurusan_ti)  # Membuat objek Mahasiswa 1
 mahasiswa_2 = Mahasiswa("Andi ", "1SD112B", jurusan_ti)  # Membuat objek Mahasiswa 2
 
 jurusan_ti.tambah_mahasiswa(mahasiswa_1)  # Menambahkan Mahasiswa 1
