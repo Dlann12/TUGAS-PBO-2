@@ -16,19 +16,11 @@ class Jurusan:  # class jurusan
         self.DaftarMahasiswa = []
 
     def tambah_mahasiswa(self, mahasiswa):  # function untuk menambahkan mahasiswa
-        self.DaftarMahasiswa.append(
-            mahasiswa
-        )  # masukkan append sebagai kode penambahan
+        self.DaftarMahasiswa.append(mahasiswa)  # masukkan append sebagai kode penambahan
 
-    def tampilkan_daftar_mahasiswa(
-        self,
-    ):  # function untuk menampilkan daftar mahasiswa setelah nanti ditambahkan
+    def tampilkan_daftar_mahasiswa(self,):  # function untuk menampilkan daftar mahasiswa setelah nanti ditambahkan
         print("Daftar Mahasiswa di Jurusan", self.NamaJurusan)
-        for (
-            mahasiswa
-        ) in (
-            self.DaftarMahasiswa
-        ):  # melakukan perulangan sampai daftar dalam mahasiswa habis
+        for (mahasiswa) in (self.DaftarMahasiswa):  # melakukan perulangan sampai daftar dalam mahasiswa habis
             print("- Nama:", mahasiswa.nama)
             print("  NIM :", mahasiswa.nim)
 
